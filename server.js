@@ -36,7 +36,7 @@ else {
 	var http = require('http');
 
 	appServer = http.createServer(app);
-	appServer.listen(server.port, function () {
+	appServer.listen(process.env.PORT || server.port, function () {
 		logger.info("Listening at http://localhost:%s", server.port);
 	});
 }
