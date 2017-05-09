@@ -1,0 +1,19 @@
+{
+	"server" : {
+		"port" : 8082,
+		"httpsEnabled" : false,
+		"key" : "",
+		"certificate" : ""
+	},
+	"inputDateFormat" : "yyyy-MM-dd",	
+	"users" : [			
+		{
+			"username" : "admin",
+			"password" : "e322e1b548de69deb7632cd2841514c5d82b7f7f6ed28c8e05b611d73f7db667"
+		}
+	],
+	"vbSecret" : "3omM8Wc74908IWCJy5K2om1mYE45KeXW",
+	"salt" : "c3c062f13e424aaba74a43c4d49ed2906360e09d185664f59342a81d74d4d55a",
+	"iv" : "3bbdce68b2736ed96972d56865ad82a2"
+
+}

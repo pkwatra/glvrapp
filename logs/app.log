@@ -1,0 +1,427 @@
+{"level":"info","message":"VBrick License Manager service. Version : 1.0.0 & Build: development on Wed Feb 15 2017 16:15:22 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-02-15T10:45:22.098Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-02-15T10:45:22.131Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-02-15T10:45:38.128Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-02-15T11:34:44.071Z"}
+{"level":"info","message":"VBrick License Manager service. Version : 1.0.0 & Build: development on Fri Feb 17 2017 14:27:28 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-02-17T08:57:28.147Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-02-17T08:57:28.183Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-02-17T08:57:44.304Z"}
+{"product":"REV","Issued":"Fri Feb 17 2017","license":[{"name":"Rev_Active_User_Seat","po":"5345345345345","so":"5345345345345","effectivedate":"2017-02-07","id":"6afd90b4-fd82-8e1d-4c14-7398354909ac","expiredate":"2017-02-23","count":"23435676"},{"name":"Rev_Viewing_Hours","po":"23435676","so":"5345345345345","effectivedate":"2017-02-13","id":"b8100aa5-42de-88a3-9107-d8513081369a","expiredate":"2017-02-28","hours":"23232323"}],"customer":"5345345345345","sn":"5345345345345","createdby":"admin","Issuer":"VBrick Inc.","level":"info","message":"","timestamp":"2017-02-17T08:58:30.224Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW-5345345345345-REV","timestamp":"2017-02-17T08:58:38.251Z"}
+{"level":"info","message":"VBrick License Manager service. Version : 1.0.0 & Build: development on Fri Feb 17 2017 14:35:16 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-02-17T09:05:16.737Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-02-17T09:05:16.769Z"}
+{"level":"info","message":"VBrick License Manager service. Version : 1.0.0 & Build: development on Fri Feb 17 2017 14:35:34 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-02-17T09:05:34.484Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-02-17T09:05:34.513Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-02-17T09:06:40.057Z"}
+{"product":"Prodcut1","Issued":"Fri Feb 17 2017","license":[{"name":"Prodcut1","sn":"asdfasdfasdf","po":"asdfasdfasdf","so":"asdfasdfasdf","effectivedate":"2017-02-02","id":"b87e944d-0bd0-3879-8d47-c8965e103d9b","expiredate":"2017-02-17","dmemodel":"7570","os":"centos_7"},{"name":"Prodcut1_MID","sn":"asdfasdfasdf","po":"asdfasdasdf","so":"asdfasdfasdf","effectivedate":"2017-02-02","id":"fe5ca831-7bfc-12cc-1bc0-87fed97941c6","expiredate":"2017-02-25","dmemodel":"7550","os":"centos_7"}],"customer":"adfasdfasdf","mac":"11:11:11:11:11:11","createdby":"admin","Issuer":"VBrick Inc.","level":"info","message":"","timestamp":"2017-02-17T09:08:18.333Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW-adfasdfasdf-Prodcut1","timestamp":"2017-02-17T09:08:25.901Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-02-17T09:08:54.962Z"}
+{"level":"info","message":"Product License Manager service. Version : 1.0.0 & Build: development on Fri Feb 17 2017 17:20:21 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-02-17T11:50:21.990Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-02-17T11:50:22.018Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-02-17T11:50:35.967Z"}
+{"product":"Prodcut1","Issued":"Fri Feb 17 2017","license":[{"name":"Prodcut1","sn":"asdfasdfasdf","po":"asdfasdfasdf","so":"asdfasdf","effectivedate":"2017-02-01","id":"46aa575e-55bb-80b8-e7ba-0881e7822af2","expiredate":"2017-02-28","dmemodel":"7570","os":"centos_7"}],"customer":"sdfsdfsdfsdf","mac":"11:11:11:11:11:11","createdby":"admin","Issuer":"Prodcut Inc.","level":"info","message":"","timestamp":"2017-02-17T11:51:01.475Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW-sdfsdfsdfsdf-Prodcut1","timestamp":"2017-02-17T11:51:07.678Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-02-17T11:53:04.039Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-02-17T11:53:24.424Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-02-17T11:54:35.670Z"}
+{"product":"Prodcut1","Issued":"Fri Feb 17 2017","license":[{"name":"Prodcut1","sn":"sdfasdfsdf","po":"asdfasdfasdf","so":"asdfasdfdsf","effectivedate":"2017-02-01","id":"bdaf1dd5-03a9-708d-4edf-adc55265e5c0","expiredate":"2017-02-22","dmemodel":"7570","os":"centos_7","os 2":"redhat_7"}],"customer":"asdfdsf","mac":"11:11:11:11:11:11","createdby":"admin","Issuer":"Prodcut Inc.","level":"info","message":"","timestamp":"2017-02-17T11:55:16.441Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW-asdfdsf-Prodcut1","timestamp":"2017-02-17T11:55:28.456Z"}
+{"level":"info","message":"Product License Manager service. Version : 1.0.0 & Build: development on Tue Feb 21 2017 20:29:06 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-02-21T14:59:06.186Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-02-21T14:59:06.213Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-02-21T14:59:29.636Z"}
+{"product":"Prodcut1","Issued":"Tue Feb 21 2017","license":[{"name":"Prodcut1","sn":"adfadfasdfsdf","po":"asdfadsfasdfa","so":"asdfasdfasdfas","effectivedate":"2017-02-01","id":"198f9a79-f77c-cb74-41f5-55f4e99b5869","expiredate":"2017-02-28","dmemodel":"7570","os":"centos_7"},{"name":"Prodcut1_MID","sn":"asdfasdfasdfas","po":"asdfasdfasdf","so":"adfasdfsdaf","effectivedate":"2017-02-01","id":"1402a685-ff3a-447a-d7c7-ea5d575a4c5b","expiredate":"2017-02-24","dmemodel":"7550","os":"centos_7"}],"customer":"asdfasdasdf","mac":"11:11:11:11:11:11","createdby":"admin","Issuer":"Prodcut Inc.","level":"info","message":"","timestamp":"2017-02-21T15:00:12.794Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW-asdfasdasdf-Prodcut1","timestamp":"2017-02-21T15:00:26.679Z"}
+{"level":"info","message":"Product License Manager service. Version : 1.0.0 & Build: development on Tue Feb 21 2017 20:34:37 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-02-21T15:04:37.492Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-02-21T15:04:37.529Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-02-21T15:04:56.046Z"}
+{"product":"Prodcut1","Issued":"Tue Feb 21 2017","license":[{"name":"Prodcut1","sn":"asdfdsf","po":"asdfasdfasdf","so":"asdfasdfsdf","effectivedate":"2017-02-01","id":"3de3c382-baeb-320f-0cbf-55116f34eaf1","expiredate":"2017-02-28","dmemodel":"7570","os":"redhat_7"},{"name":"VBMIX","sn":"adsfasdfasd","po":"asdfadsfadsf","so":"asdfasdfas","effectivedate":"2017-02-01","id":"7faece21-6b30-e100-4a16-7b055bcbfa71","expiredate":"2017-02-28"}],"customer":"asdfasdfasd","mac":"11:11:11:11:11:11","createdby":"admin","Issuer":"Prodcut Inc.","level":"info","message":"","timestamp":"2017-02-21T15:05:37.495Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW-asdfasdfasd-Prodcut1","timestamp":"2017-02-21T15:05:44.716Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-02-21T16:13:57.851Z"}
+{"product":"Prodcut1","Issued":"Tue Feb 21 2017","license":[{"name":"Prodcut1","sn":"asdfasdfasdf","po":"adfasdfsdf","so":"adsfasdf","effectivedate":"2017-02-01","id":"f862195f-8baf-b9cc-3de7-5c60fcde877f","expiredate":"2017-02-23","dmemodel":"7570","os":"centos_7"},{"name":"VBMIX","sn":"asdfasdfa","po":"asdfasdf","so":"asdfasdf","effectivedate":"2017-02-01","id":"093e3c04-40b4-361b-eb8e-17967750dc20","expiredate":"2017-02-28"}],"customer":"asdfasdfasdf","mac":"11:11:11:11:11:11","createdby":"admin","Issuer":"Prodcut Inc.","level":"info","message":"","timestamp":"2017-02-21T16:14:42.264Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW-asdfasdfasdf-Prodcut1","timestamp":"2017-02-21T16:15:32.133Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 04 2017 22:39:40 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-04T17:09:40.295Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-04T17:09:40.348Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-04T17:10:01.587Z"}
+{"level":"error","message":"Error occurred in /login - Invalid user: admin","timestamp":"2017-04-04T17:10:01.593Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-04T17:10:04.494Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 04 2017 22:46:43 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-04T17:16:43.831Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-04T17:16:43.868Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-04T17:16:55.774Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 04 2017 22:50:07 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-04T17:20:07.313Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-04T17:20:07.355Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 04 2017 22:50:32 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-04T17:20:32.148Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-04T17:20:32.187Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-04T17:20:48.811Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-04T17:20:54.764Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-04T17:21:25.782Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-04T17:21:33.301Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-04T17:21:45.238Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 04 2017 22:54:52 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-04T17:24:52.552Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-04T17:24:52.595Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-04T17:25:18.405Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 04 2017 23:02:56 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-04T17:32:56.486Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-04T17:32:56.529Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 04 2017 23:06:49 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-04T17:36:49.611Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-04T17:36:49.652Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 04 2017 23:11:47 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-04T17:41:47.118Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-04T17:41:47.164Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-04T17:41:55.880Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 04 2017 23:25:01 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-04T17:55:01.641Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-04T17:55:01.689Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-04T17:55:14.891Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 04 2017 23:36:23 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-04T18:06:23.608Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-04T18:06:23.661Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-04T18:06:35.568Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-04T18:07:45.512Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 05 2017 09:47:38 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-05T04:17:38.307Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-05T04:17:38.355Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 05 2017 09:50:29 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-05T04:20:29.613Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-05T04:20:29.667Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-05T04:28:01.293Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-05T04:31:56.083Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 05 2017 10:20:32 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-05T04:50:32.738Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-05T04:50:32.775Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-05T04:51:03.216Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 05 2017 10:22:57 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-05T04:52:57.890Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-05T04:52:57.917Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 05 2017 10:27:08 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-05T04:57:08.725Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-05T04:57:08.754Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-05T04:57:28.951Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-05T05:00:21.271Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 05 2017 10:31:21 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-05T05:01:21.756Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-05T05:01:21.792Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-05T05:01:34.472Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 05 2017 10:33:06 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-05T05:03:06.377Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-05T05:03:06.417Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-05T05:03:37.753Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 05 2017 10:36:39 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-05T05:06:39.684Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-05T05:06:39.728Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-05T05:07:07.908Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-05T05:08:35.393Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 05 2017 10:43:42 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-05T05:13:42.609Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-05T05:13:42.644Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-05T05:14:09.644Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-05T05:16:14.902Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-05T05:16:58.229Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-05T05:17:34.618Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 05 2017 10:55:27 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-05T05:25:27.487Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-05T05:25:27.517Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 05 2017 10:56:02 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-05T05:26:02.993Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-05T05:26:03.027Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-05T05:26:24.743Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Sat Apr 08 2017 18:54:42 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-08T13:24:42.770Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-08T13:24:42.807Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Sat Apr 08 2017 18:55:56 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-08T13:25:56.818Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-08T13:25:56.867Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-08T13:26:04.581Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Sat Apr 08 2017 18:58:15 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-08T13:28:15.481Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-08T13:28:15.529Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-08T13:28:26.327Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Sat Apr 08 2017 19:01:25 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-08T13:31:25.973Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-08T13:31:26.105Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-08T13:31:39.404Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Sat Apr 08 2017 19:02:29 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-08T13:32:29.788Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-08T13:32:29.832Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-08T13:32:37.014Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Sat Apr 08 2017 19:14:56 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-08T13:44:56.320Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-08T13:44:56.455Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-08T13:45:05.108Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Sat Apr 08 2017 19:17:18 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-08T13:47:19.006Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-08T13:47:19.108Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-08T13:47:21.827Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-08T13:47:59.578Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-08T13:48:55.158Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Sat Apr 08 2017 19:30:34 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-08T14:00:34.243Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-08T14:00:34.354Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-08T14:00:58.439Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Sat Apr 08 2017 19:33:35 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-08T14:03:35.913Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-08T14:03:36.056Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-08T14:03:56.427Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon Apr 10 2017 00:52:33 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-09T19:22:33.958Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-09T19:22:34.067Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-09T19:22:42.042Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-09T19:23:38.905Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-09T19:24:42.421Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon Apr 10 2017 01:11:44 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-09T19:41:44.277Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-09T19:41:44.309Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-09T19:41:57.986Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon Apr 10 2017 01:13:58 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-09T19:43:58.648Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-09T19:43:58.696Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-09T19:44:10.745Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon Apr 10 2017 01:17:10 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-09T19:47:10.768Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-09T19:47:10.821Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-09T19:47:42.537Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon Apr 10 2017 01:21:00 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-09T19:51:00.103Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-09T19:51:00.156Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-09T19:51:04.514Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 11:21:48 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T05:51:48.367Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T05:51:48.473Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 11:28:11 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T05:58:11.574Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T05:58:11.637Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 11:32:15 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T06:02:15.387Z"}
+{"date":"Tue Apr 25 2017 11:32:15 GMT+0530 (India Standard Time)","process":{"pid":4432,"uid":null,"gid":null,"cwd":"D:\\Repository\\Shared\\GLVRWebApplication","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v6.9.5","argv":["C:\\Program Files\\nodejs\\node.exe","D:\\Repository\\Shared\\GLVRWebApplication\\server.js"],"memoryUsage":{"rss":38375424,"heapTotal":23187456,"heapUsed":16208144}},"os":{"loadavg":[0,0,0],"uptime":758548.1048437},"trace":[{"column":11,"file":"util.js","function":"Object.exports._errnoException","line":1022,"method":"exports._errnoException","native":false},{"column":20,"file":"util.js","function":"exports._exceptionWithHostPort","line":1045,"method":"_exceptionWithHostPort","native":false},{"column":14,"file":"net.js","function":"Server._listen2","line":1259,"method":"_listen2","native":false},{"column":10,"file":"net.js","function":"listen","line":1295,"method":null,"native":false},{"column":5,"file":"net.js","function":"Server.listen","line":1391,"method":"listen","native":false},{"column":12,"file":"D:\\Repository\\Shared\\GLVRWebApplication\\server.js","function":"","line":39,"method":null,"native":false},{"column":32,"file":"module.js","function":"Module._compile","line":570,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Object.Module._extensions..js","line":579,"method":"Module._extensions..js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":487,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":446,"method":null,"native":false}],"stack":["Error: listen EADDRINUSE :::8082","    at Object.exports._errnoException (util.js:1022:11)","    at exports._exceptionWithHostPort (util.js:1045:20)","    at Server._listen2 (net.js:1259:14)","    at listen (net.js:1295:10)","    at Server.listen (net.js:1391:5)","    at Object.<anonymous> (D:\\Repository\\Shared\\GLVRWebApplication\\server.js:39:12)","    at Module._compile (module.js:570:32)","    at Object.Module._extensions..js (module.js:579:10)","    at Module.load (module.js:487:32)","    at tryModuleLoad (module.js:446:12)"],"level":"error","message":"uncaughtException: listen EADDRINUSE :::8082","timestamp":"2017-04-25T06:02:16.083Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 11:35:22 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T06:05:22.955Z"}
+{"date":"Tue Apr 25 2017 11:35:23 GMT+0530 (India Standard Time)","process":{"pid":20016,"uid":null,"gid":null,"cwd":"D:\\Repository\\Shared\\GLVRWebApplication","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v6.9.5","argv":["C:\\Program Files\\nodejs\\node.exe","D:\\Repository\\Shared\\GLVRWebApplication\\server.js"],"memoryUsage":{"rss":38055936,"heapTotal":23187456,"heapUsed":16185112}},"os":{"loadavg":[0,0,0],"uptime":758735.6396455},"trace":[{"column":11,"file":"util.js","function":"Object.exports._errnoException","line":1022,"method":"exports._errnoException","native":false},{"column":20,"file":"util.js","function":"exports._exceptionWithHostPort","line":1045,"method":"_exceptionWithHostPort","native":false},{"column":14,"file":"net.js","function":"Server._listen2","line":1259,"method":"_listen2","native":false},{"column":10,"file":"net.js","function":"listen","line":1295,"method":null,"native":false},{"column":5,"file":"net.js","function":"Server.listen","line":1391,"method":"listen","native":false},{"column":12,"file":"D:\\Repository\\Shared\\GLVRWebApplication\\server.js","function":"","line":39,"method":null,"native":false},{"column":32,"file":"module.js","function":"Module._compile","line":570,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Object.Module._extensions..js","line":579,"method":"Module._extensions..js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":487,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":446,"method":null,"native":false}],"stack":["Error: listen EADDRINUSE :::8082","    at Object.exports._errnoException (util.js:1022:11)","    at exports._exceptionWithHostPort (util.js:1045:20)","    at Server._listen2 (net.js:1259:14)","    at listen (net.js:1295:10)","    at Server.listen (net.js:1391:5)","    at Object.<anonymous> (D:\\Repository\\Shared\\GLVRWebApplication\\server.js:39:12)","    at Module._compile (module.js:570:32)","    at Object.Module._extensions..js (module.js:579:10)","    at Module.load (module.js:487:32)","    at tryModuleLoad (module.js:446:12)"],"level":"error","message":"uncaughtException: listen EADDRINUSE :::8082","timestamp":"2017-04-25T06:05:23.179Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 11:36:28 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T06:06:28.539Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T06:06:28.618Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 11:40:33 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T06:10:33.478Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T06:10:33.538Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 11:45:16 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T06:15:16.476Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T06:15:16.532Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 11:47:10 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T06:17:10.111Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T06:17:10.250Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 11:54:26 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T06:24:26.065Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T06:24:26.214Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 11:58:10 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T06:28:10.749Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T06:28:10.816Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 12:05:21 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T06:35:21.337Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T06:35:21.386Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T06:35:33.592Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T06:35:51.491Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T06:36:07.031Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 12:19:09 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T06:49:09.760Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T06:49:09.871Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T06:49:30.579Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 12:24:33 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T06:54:33.180Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T06:54:33.232Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 12:29:04 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T06:59:04.655Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T06:59:04.766Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 12:34:09 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T07:04:09.014Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T07:04:09.062Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 12:35:36 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T07:05:36.780Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T07:05:36.825Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T07:11:17.106Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 13:44:15 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T08:14:15.244Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T08:14:15.280Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T08:23:23.746Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T08:37:35.449Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T09:39:04.131Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 15:12:57 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T09:42:57.243Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T09:42:57.401Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 15:16:55 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T09:46:55.089Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T09:46:55.172Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 15:19:27 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T09:49:27.226Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T09:49:27.300Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T09:49:43.566Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 15:27:44 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T09:57:44.236Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T09:57:44.305Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T09:58:03.577Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T09:58:11.613Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 15:35:16 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T10:05:17.169Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T10:05:17.663Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T10:05:37.127Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 15:40:13 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T10:10:13.907Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T10:10:14.038Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T10:10:35.795Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T10:12:06.910Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 15:52:36 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T10:22:36.100Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T10:22:36.310Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T10:22:49.005Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 15:57:22 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T10:27:22.405Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T10:27:22.523Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T10:27:38.492Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 16:02:38 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T10:32:38.477Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T10:32:38.706Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 16:08:04 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T10:38:04.163Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T10:38:04.404Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 16:11:02 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T10:41:02.761Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T10:41:02.829Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 16:13:37 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T10:43:37.838Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T10:43:37.901Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 16:16:55 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T10:46:55.671Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T10:46:55.734Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 16:18:58 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T10:48:58.011Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T10:48:58.091Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T10:49:24.433Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 16:22:19 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T10:52:19.494Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T10:52:19.564Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Tue Apr 25 2017 16:25:13 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-25T10:55:13.752Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-25T10:55:13.801Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T10:55:20.462Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-25T10:55:51.501Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 26 2017 12:09:36 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-26T06:39:36.935Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-26T06:39:36.997Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-26T06:40:24.913Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 26 2017 12:15:45 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-26T06:45:45.370Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-26T06:45:45.537Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-26T06:46:05.992Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 26 2017 12:18:15 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-26T06:48:15.914Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-26T06:48:16.219Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 26 2017 12:20:53 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-26T06:50:53.129Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-26T06:50:53.351Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-26T06:51:09.528Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 26 2017 12:25:16 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-26T06:55:16.090Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-26T06:55:16.292Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-26T06:55:28.347Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-26T06:57:30.697Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 26 2017 12:29:04 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-26T06:59:04.904Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-26T06:59:05.150Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-26T06:59:22.535Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 26 2017 12:31:55 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-26T07:01:55.992Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-26T07:01:56.113Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-26T07:02:22.431Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 26 2017 12:35:06 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-26T07:05:06.232Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-26T07:05:06.433Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-26T07:05:17.867Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 26 2017 12:44:24 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-26T07:14:24.696Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-26T07:14:25.195Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-26T07:14:34.622Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Wed Apr 26 2017 12:53:37 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-26T07:23:37.024Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-26T07:23:37.079Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-26T07:23:46.443Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-26T07:30:02.149Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-28T05:02:25.368Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Fri Apr 28 2017 11:06:24 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-28T05:36:24.161Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-28T05:36:24.259Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Fri Apr 28 2017 11:09:34 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-28T05:39:35.040Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-28T05:39:35.359Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Fri Apr 28 2017 11:22:22 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-04-28T05:52:22.258Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-04-28T05:52:22.313Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-04-28T05:52:34.622Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Thu May 04 2017 11:15:41 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-04T05:45:41.767Z"}
+{"date":"Thu May 04 2017 11:15:41 GMT+0530 (India Standard Time)","process":{"pid":28380,"uid":null,"gid":null,"cwd":"D:\\Repository\\Shared\\GLVRWebApplication","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v6.9.5","argv":["C:\\Program Files\\nodejs\\node.exe","D:\\Repository\\Shared\\GLVRWebApplication\\server.js"],"memoryUsage":{"rss":38068224,"heapTotal":23187456,"heapUsed":16198856}},"os":{"loadavg":[0,0,0],"uptime":769354.363571},"trace":[{"column":11,"file":"util.js","function":"Object.exports._errnoException","line":1022,"method":"exports._errnoException","native":false},{"column":20,"file":"util.js","function":"exports._exceptionWithHostPort","line":1045,"method":"_exceptionWithHostPort","native":false},{"column":14,"file":"net.js","function":"Server._listen2","line":1259,"method":"_listen2","native":false},{"column":10,"file":"net.js","function":"listen","line":1295,"method":null,"native":false},{"column":5,"file":"net.js","function":"Server.listen","line":1391,"method":"listen","native":false},{"column":12,"file":"D:\\Repository\\Shared\\GLVRWebApplication\\server.js","function":"","line":39,"method":null,"native":false},{"column":32,"file":"module.js","function":"Module._compile","line":570,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Object.Module._extensions..js","line":579,"method":"Module._extensions..js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":487,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":446,"method":null,"native":false}],"stack":["Error: listen EADDRINUSE :::8082","    at Object.exports._errnoException (util.js:1022:11)","    at exports._exceptionWithHostPort (util.js:1045:20)","    at Server._listen2 (net.js:1259:14)","    at listen (net.js:1295:10)","    at Server.listen (net.js:1391:5)","    at Object.<anonymous> (D:\\Repository\\Shared\\GLVRWebApplication\\server.js:39:12)","    at Module._compile (module.js:570:32)","    at Object.Module._extensions..js (module.js:579:10)","    at Module.load (module.js:487:32)","    at tryModuleLoad (module.js:446:12)"],"level":"error","message":"uncaughtException: listen EADDRINUSE :::8082","timestamp":"2017-05-04T05:45:41.916Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-04T05:46:00.808Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-04T10:08:19.231Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Fri May 05 2017 15:19:23 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-05T09:49:23.901Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-05T09:49:23.953Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-05T09:49:52.542Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Fri May 05 2017 16:13:17 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-05T10:43:17.663Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-05T10:43:17.710Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-05T10:43:41.265Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-05T12:02:43.925Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-05T12:09:09.716Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 12:12:10 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T06:42:10.138Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T06:42:10.167Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 12:14:00 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T06:44:00.551Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T06:44:00.607Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 12:18:36 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T06:48:36.086Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T06:48:36.117Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 12:22:54 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T06:52:54.551Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T06:52:54.599Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 12:24:52 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T06:54:52.997Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T06:54:53.041Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 12:27:24 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T06:57:24.620Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T06:57:24.666Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 12:30:29 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T07:00:29.364Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T07:00:29.393Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 12:37:31 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T07:07:31.340Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T07:07:31.385Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 12:41:49 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T07:11:49.653Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T07:11:49.704Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T07:12:45.321Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 12:46:00 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T07:16:00.954Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T07:16:00.985Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T07:16:37.536Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T07:17:21.281Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 12:48:49 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T07:18:49.138Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T07:18:49.201Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T07:19:21.183Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 12:51:04 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T07:21:04.233Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T07:21:04.281Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T07:21:29.730Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T07:22:11.558Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 12:53:26 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T07:23:26.613Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T07:23:26.660Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T07:23:47.753Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 12:54:43 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T07:24:43.585Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T07:24:43.626Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T07:25:00.116Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 12:56:48 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T07:26:48.119Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T07:26:48.160Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T07:27:12.036Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 12:58:28 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T07:28:28.037Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T07:28:28.090Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T07:28:46.810Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 13:00:03 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T07:30:03.676Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T07:30:03.744Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T07:30:22.980Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 13:08:00 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T07:38:00.497Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T07:38:00.552Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 13:18:01 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T07:48:01.547Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T07:48:01.597Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 13:23:57 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T07:53:57.166Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T07:53:57.222Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T07:54:18.991Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 13:29:24 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T07:59:24.100Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T07:59:24.142Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T07:59:36.013Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 13:31:15 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T08:01:15.934Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T08:01:15.981Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T08:01:27.254Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 14:31:32 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T09:01:32.561Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T09:01:32.617Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T09:01:47.076Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 14:37:29 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T09:07:29.483Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T09:07:29.518Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T09:07:45.747Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 14:39:49 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T09:09:49.480Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T09:09:49.527Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T09:10:04.127Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 14:44:46 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T09:14:46.124Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T09:14:46.176Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T09:14:59.008Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 14:48:32 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T09:18:32.030Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T09:18:32.063Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T09:18:47.868Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 14:54:23 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T09:24:23.633Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T09:24:23.662Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T09:24:42.752Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 15:00:46 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T09:30:46.668Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T09:30:46.710Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T09:30:57.015Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 15:13:25 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T09:43:25.421Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T09:43:25.467Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T09:43:34.927Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 15:15:55 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T09:45:55.937Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T09:45:55.982Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T09:46:10.277Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 15:20:22 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T09:50:22.123Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T09:50:22.163Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T09:50:32.147Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T09:53:22.716Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 15:24:25 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T09:54:25.169Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T09:54:25.213Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T09:54:36.945Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 15:25:56 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T09:55:56.731Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T09:55:56.777Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T09:56:08.997Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T09:57:48.345Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T09:59:29.692Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T10:16:04.664Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 15:56:37 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T10:26:37.083Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T10:26:37.118Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T10:27:07.839Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 16:00:10 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T10:30:10.574Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T10:30:10.604Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T10:30:18.658Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 16:02:59 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T10:32:59.362Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T10:32:59.393Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T10:33:13.784Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 16:04:07 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T10:34:07.082Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T10:34:07.129Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T10:34:16.482Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 16:41:09 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T11:11:09.080Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T11:11:09.129Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T11:15:03.296Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 16:49:56 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T11:19:56.625Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T11:19:56.654Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T11:20:37.838Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 17:03:00 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T11:33:00.232Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T11:33:00.261Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 17:04:53 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T11:34:53.949Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T11:34:53.978Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T11:35:07.098Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T11:38:30.740Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 17:12:26 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T11:42:26.346Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T11:42:26.378Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T11:42:35.553Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 17:20:13 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T11:50:13.299Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T11:50:13.328Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 17:21:00 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T11:51:00.958Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T11:51:00.990Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T11:51:10.524Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T11:52:47.874Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T11:53:35.344Z"}
+{"level":"info","message":"Globallogic VR PoC Application service. Version : 1.0.0 & Build: development on Mon May 08 2017 17:27:07 GMT+0530 (India Standard Time) with SHA: development","timestamp":"2017-05-08T11:57:07.193Z"}
+{"level":"info","message":"Listening at http://localhost:8082","timestamp":"2017-05-08T11:57:07.241Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-08T11:57:21.745Z"}
+{"level":"info","message":"3omM8Wc74908IWCJy5K2om1mYE45KeXW","timestamp":"2017-05-09T05:09:54.877Z"}

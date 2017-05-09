@@ -1,0 +1,22 @@
+
+
+
+<section class="main-sec">
+	<h1>Welcome to Globallogic</h1>
+	<h2>Experiences like you're actually here.</h2>
+	<a href="" ng-click="showLoginScreen()" class="login-btn">Login</a>
+</section>
+<div class="login-panel">
+	<a href="" ng-click="hideLoginScreen()" class="close-icon"><img src="ic_close.png"/></a>	
+	<form id="userForm" name="userForm" ng-submit="loginUser(userForm)">
+		<input type="text" name="username" ng-model="username" ng-required="true" type="string" placeholder="Enter your email" />
+		<span ng-if="submitted &amp;&amp; userForm.username.$error.required" class="error-block">*Username is required.</span>
+		<input type="password" name="password" ng-model="password" ng-required="true" placeholder="Enter password" />	
+		<span ng-if="submitted &amp;&amp; userForm.password.$error.required &amp;&amp; submitted" class="error-block">*Password is required.</span>
+		<div class="col-md-12 btn-row text-right">
+			<button type="submit" class="login-form-btn">
+				<i class="fa fa-file-o"></i>Login
+			</button>
+		</div>
+	</form>
+</div>
