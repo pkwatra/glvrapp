@@ -26,19 +26,24 @@ var updateFcts	= [];
 
 var mesh;
 
+var video_mesh, menuOne, menuTwo, menuThree, menuFour, mesh360, mesh3600, meshPlay, meshNext;
+
 function ChangeMeshToStep1() {
     mesh.material.map = THREE.ImageUtils.loadTexture( GLStep1 );
     mesh.material.needsUpdate = true;
     pageState = "Step1";
     lon = 180;
+
+    CreateNavigationMesh();
+   
 }
 
 function ChangeMeshToStep2() {
-    
+  
     mesh.material.map = THREE.ImageUtils.loadTexture( GLStep2 );
     mesh.material.needsUpdate = true;
     pageState = "Step2";
-    lon = 150;
+    lon = 150;   
 }
 
 function initHome(bindevent) {
@@ -328,7 +333,7 @@ function create3dPage(w, h, position, rotation, url) {
   cssScene.add(cssObject);
 }
 
-var video_mesh, menuOne, menuTwo, menuThree, menuFour;
+
 
 function RemoveAllMesh() {  
    
@@ -352,6 +357,46 @@ function RemoveAllMesh() {
     if (menuFour) {
         scene.remove(menuFour);
     }
+
+    if (mesh360) {
+        scene.remove(mesh360);
+    }
+
+    if (mesh3600) {
+        scene.remove(mesh3600);
+    }
+
+    if (meshPlay) {
+        scene.remove(meshPlay);
+    }
+
+     if (meshNext) {
+        scene.remove(meshNext);
+    }
+}
+
+
+function CreateNavigationMesh() {
+    var geo_img = new THREE.PlaneGeometry(4, 4, 3, 3);
+    meshNext =  AddMenuToScene(geo_img, 'ic_arrow.png', -140, -50, -10, 4, 4, 4 ,80, true);
+    meshNext.rotateX(THREE.Math.degToRad(40));
+
+    var domEvents	= new THREEx.DomEvents(camera, renderer.domElement); 
+    domEvents.addEventListener(meshNext, 'click', function(event){  
+                 
+        ChangeMeshToStep2();
+		BindDragEvents();
+		StopRotation(true);	
+		CreateMesh(true);	
+
+    }, false);
+
+    mesh3600 =  AddMenuToScene(geo_img, 'ic_360.png', -140, -70, -10, 5, 5, 5 , 80, true);  
+    var domEvents	= new THREEx.DomEvents(camera, renderer.domElement); 
+    domEvents.addEventListener(mesh3600, 'click', function(event){      
+        isStopRotation = !isStopRotation;            
+    }, false);
+
 }
 
 
@@ -393,7 +438,14 @@ function CreateMesh(visibleMesh)
          menuTwo =  AddMenuToScene( geo_img, 'btnTwo.png' , -8.5, 1.5, -10, 1.25, 0.3, 0.1, 20, visibleMesh);
          menuThree = AddMenuToScene( geo_img, 'btnThree.png',  -8.5, 0, -10, 1.25, 0.3, 0.1, 20, visibleMesh);
          menuFour = AddMenuToScene( geo_img, 'btnFour.png',  -8.5, -1.5 , -10, 1.25, 0.3, 0.1, 20, visibleMesh);
-            
+
+              
+        
+         meshPlay =  AddMenuToScene(geo_img, 'ic_play.png', 3.5, 3.5, -10, 0.2, 0.2, 0.2 ,0, visibleMesh);
+         mesh360 =  AddMenuToScene(geo_img, 'ic_360.png', -1.5, -7, -10, 0.5, 0.5, 0.5 ,0, true);  
+   
+ 
+                    
           var domEvents	= new THREEx.DomEvents(camera, renderer.domElement);
           domEvents.addEventListener(menuOne, 'click', function(event){              
                 PlayVideoFile(videoGLFile1);           
@@ -413,7 +465,15 @@ function CreateMesh(visibleMesh)
           domEvents.addEventListener(menuFour, 'click', function(event){      
                 PlayVideoFile(videoGLFile4);                
                 tRotate(menuFour);                    
-          }, false);        
+          }, false);         
+
+          domEvents.addEventListener(meshPlay, 'click', function(event){      
+              video.pause();                  
+          }, false);     
+
+          domEvents.addEventListener(mesh360, 'click', function(event){      
+            isStopRotation = !isStopRotation;            
+          }, false);   
 }
 
 
@@ -456,24 +516,24 @@ function ComaerZoom( ) {
 function onDocumentMouseWheel( event ) {
       
       // WebKit
-      if ( event.wheelDeltaY ) {
-          camera.fov -= event.wheelDeltaY * 0.05;
+     // if ( event.wheelDeltaY ) {
+         // camera.fov -= event.wheelDeltaY * 0.05;
           // Opera / Explorer 9
 
-      } else if ( event.wheelDelta ) {
-          if (camera.fov > 50) {
-            camera.fov -= event.wheelDelta * 0.05;
-          }
+     // } else if ( event.wheelDelta ) {
+         // if (camera.fov > 50) {
+         //   camera.fov -= event.wheelDelta * 0.05;
+        //  }
           // Firefox
-      } else if ( event.detail ) {
-          if (camera.fov < 70) {
-             camera.fov += event.detail * 1.0;
-          }
-      }
+     // } else if ( event.detail ) {
+         // if (camera.fov < 70) {
+          ////   camera.fov += event.detail * 1.0;
+        //  }
+      //}
 
-      console.log(camera.fov);
+      //console.log(camera.fov);
 
-      camera.updateProjectionMatrix();
+     // camera.updateProjectionMatrix();
 
 }
 

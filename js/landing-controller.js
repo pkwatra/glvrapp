@@ -46,6 +46,7 @@ angular.module('glvrApp').controller('landingController', ['$rootScope', '$scope
 		BindDragEvents();		
 		StopRotation(true);
 		RemoveAllMesh();
+		CreateNavigationMesh();
 	}
 }]);
 
