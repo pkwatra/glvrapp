@@ -41,12 +41,11 @@ angular.module('glvrApp').controller('landingController', ['$rootScope', '$scope
 	}
 
 	$scope.goToStep1 = function() {
-	    HideMenuControl();		
+	    HideMenuControl();	
+		RemoveAllMesh();	
 		ChangeMeshToStep1();
 		BindDragEvents();		
-		StopRotation(true);
-		RemoveAllMesh();
-		CreateNavigationMesh();
+		StopRotation(true);		
 	}
 }]);
 

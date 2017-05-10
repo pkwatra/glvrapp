@@ -33,7 +33,6 @@ function ChangeMeshToStep1() {
     mesh.material.needsUpdate = true;
     pageState = "Step1";
     lon = 180;
-
     CreateNavigationMesh();
    
 }
@@ -338,7 +337,8 @@ function create3dPage(w, h, position, rotation, url) {
 function RemoveAllMesh() {  
    
     if (video_mesh) {
-         video.pause();
+         // video.pause();
+         video.muted= true;
          scene.remove(video_mesh);
     }
 
