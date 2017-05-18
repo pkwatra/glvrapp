@@ -1,13 +1,11 @@
-# VBrick License Manager
+# GL VR APP
 
 ## Usage
 
-VBrick License Manager helps to generate license files for different customers by choosing from various available features.
+
 
 ## Installation
 
-$ git clone http://git.vbrick.com/VBrick/LicenseManagement.git
-$ cd LicenseManagement
 $ npm install
 $ grunt
 
